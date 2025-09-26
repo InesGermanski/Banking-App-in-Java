@@ -19,7 +19,6 @@ public class Bank {
             if (option < 1 || option > 4) {
                 System.out.println("Please enter a valid option.");
                 continue;
-
             }
 
             switch (option) {
